@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1. Vingadores - DoomsDay
+=======
+1. Batman
+>>>>>>> e7f7f128d39b3ce0eb07b9f60b6ca9ad93071096
 2. Donnie Darko
 3. Beleza Americana
 4. Vanilla Sky
